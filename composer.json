@@ -1,0 +1,10 @@
+{
+    "name": "biels/portal-admistrativo",
+    "authors": [
+        {
+            "name": "Gabriel Santos Góes",
+            "email": "gabrielgoesdev@gmail.com"
+        }
+    ],
+    "require": {}
+}

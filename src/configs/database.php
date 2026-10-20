@@ -6,6 +6,7 @@ use PDO;
 use PDOException;
 
 class Database {
+    // ... restante do código
     private static ?PDO $instance = null;
 
     public static function getConnection(): PDO {
@@ -13,7 +14,7 @@ class Database {
             $host = '127.0.0.1';
             $db   = 'portal_admin';
             $user = 'root';
-            $pass = '';
+            $pass = 'GGdev007@';
             $port = '3306';
 
             try {
